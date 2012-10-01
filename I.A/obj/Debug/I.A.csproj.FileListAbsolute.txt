@@ -1,0 +1,32 @@
+D:\Documents and Settings\Ususario\Configuración local\Datos de programa\Temporary Projects\I.A\bin\Debug\I.A.exe
+D:\Documents and Settings\Ususario\Configuración local\Datos de programa\Temporary Projects\I.A\bin\Debug\I.A.pdb
+D:\Documents and Settings\Ususario\Configuración local\Datos de programa\Temporary Projects\I.A\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Ususario\Configuración local\Datos de programa\Temporary Projects\I.A\obj\Debug\I.A.Form1.resources
+D:\Documents and Settings\Ususario\Configuración local\Datos de programa\Temporary Projects\I.A\obj\Debug\I.A.Properties.Resources.resources
+D:\Documents and Settings\Ususario\Configuración local\Datos de programa\Temporary Projects\I.A\obj\Debug\I.A.csproj.GenerateResource.Cache
+D:\Documents and Settings\Ususario\Configuración local\Datos de programa\Temporary Projects\I.A\obj\Debug\I.A.exe
+D:\Documents and Settings\Ususario\Configuración local\Datos de programa\Temporary Projects\I.A\obj\Debug\I.A.pdb
+D:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2008\Projects\I.A\I.A\obj\Debug\I.A.exe
+D:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2008\Projects\I.A\I.A\obj\Debug\I.A.pdb
+D:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2008\Projects\I.A\I.A\bin\Debug\I.A.exe
+D:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2008\Projects\I.A\I.A\bin\Debug\I.A.pdb
+D:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2008\Projects\I.A\I.A\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2008\Projects\I.A\I.A\obj\Debug\I.A.Form1.resources
+D:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2008\Projects\I.A\I.A\obj\Debug\I.A.Properties.Resources.resources
+D:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2008\Projects\I.A\I.A\obj\Debug\I.A.csproj.GenerateResource.Cache
+D:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2008\Projects\I.A\I.A\bin\Debug\Bot.dll
+D:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2008\Projects\I.A\I.A\bin\Debug\HeatonResearchNeural.dll
+D:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2008\Projects\I.A\I.A\bin\Debug\Bot.pdb
+D:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2008\Projects\I.A\I.A\bin\Debug\HeatonResearchNeural.pdb
+C:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2008\Projects\I.A\I.A\obj\Debug\I.A.exe
+C:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2008\Projects\I.A\I.A\obj\Debug\I.A.pdb
+C:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2008\Projects\I.A\I.A\bin\Debug\I.A.exe
+C:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2008\Projects\I.A\I.A\bin\Debug\I.A.pdb
+C:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2008\Projects\I.A\I.A\bin\Debug\Bot.dll
+C:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2008\Projects\I.A\I.A\bin\Debug\HeatonResearchNeural.dll
+C:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2008\Projects\I.A\I.A\bin\Debug\Bot.pdb
+C:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2008\Projects\I.A\I.A\bin\Debug\HeatonResearchNeural.pdb
+C:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2008\Projects\I.A\I.A\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2008\Projects\I.A\I.A\obj\Debug\I.A.Form1.resources
+C:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2008\Projects\I.A\I.A\obj\Debug\I.A.Properties.Resources.resources
+C:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2008\Projects\I.A\I.A\obj\Debug\I.A.csproj.GenerateResource.Cache
